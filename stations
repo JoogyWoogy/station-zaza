@@ -59,6 +59,21 @@
             "url": "https://play.sas-media.ru/play_256",
             "title": "Noise FM",
             "name": "Noise FM"
+        },
+        {
+            "url": "https://rogers-hls.leanstream.co/rogers/tor981.stream/playlist.m3u8",
+            "title": "98.1 CHFI",
+            "name": "98.1 CHFI"
+        },
+        {
+            "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CKFMFM_ADP.m3u8",
+            "title": "99.9 Virgin Radio",
+            "name": "99.9 Virgin Radio - I Heart Radio"
+        },
+        {
+            "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CHUMFM_ADP.m3u8",
+            "title": "Chum 104.5",
+            "name": "Chum 104.5 - I Heart Radio"
         }
     ]
 }
